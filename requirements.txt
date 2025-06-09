@@ -1,0 +1,12 @@
+The following Julia modules are used:
+
+LinearAlgebra.jl
+SparseArrays.jl
+SpecialFunctions
+LsqFit.jl
+Plots.jl
+FFTW.jl
+Combinatorics.jl
+NumericalIntegration.jl
+LaTeXStrings.jl
+CairoMakie.jl
